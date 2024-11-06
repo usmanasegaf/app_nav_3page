@@ -1,6 +1,7 @@
 # app_nav_3page
 
-Part Mohammad Usman Asegaf
+Part Mohammad Usman Asegaf - 
+     Muhamad Syamsu Nuryaman - 22552012035
 
 1 Theme, Different photos and biodata
 
