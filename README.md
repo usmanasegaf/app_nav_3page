@@ -1,6 +1,6 @@
 # app_nav_3page
 Part Mohammad Usman Asegaf
-1 Theme, Different photos biodata
+1 Theme, Different photos and biodata
 Demo Aplikasi:
 
 https://github.com/user-attachments/assets/b2562cc8-0ad3-4a17-94c1-e977404521ee
